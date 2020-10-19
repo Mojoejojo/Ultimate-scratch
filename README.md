@@ -1,2 +1,2 @@
-# Ulitmate-scratch
+# Ultimate-scratch
 Advance playground for everyone.
